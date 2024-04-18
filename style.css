@@ -161,10 +161,7 @@ body {
 .showBar{
   display: block;
 }
-.changeColors{
-  color: var(--color4);
-  background-color: var(--color1);
-}
+
 /**** Media queries  */
 @media screen and (max-width: 600px) {
   .article h2 {
